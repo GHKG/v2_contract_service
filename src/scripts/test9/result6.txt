@@ -1,0 +1,1449 @@
+
+
+owner:  0x2887c36BDD748B89d1411AA413C144626D3bE261
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x7e22efF00FB878319606AA085316E72e19e9761B
+    game miner count:  1
+    remote miner count:  14
+        use token:  (USDC)
+            Miner: 0x56acb33B990f69fc2b3aD1aFe9e87c51E9aFE2bB  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+            Miner: 0x12956c02FBC1884f8f6fd36D8035A8e05cF670f0  , tokenCount: 100000000000000000000
+            Miner: 0x193FA7CfA78AdCFA99C4a425be2b16d33b972a1E  , tokenCount: 100000000000000000000
+            Miner: 0x1A5aF2F6f5001bDf72ea02Fc0D07F48De2e33321  , tokenCount: 100000000000000000000
+            Miner: 0x1E7AB8232E03687ff8ef5A0eE4CA5a283c56b02A  , tokenCount: 100000000000000000000
+            Miner: 0x401105a358F5306bd6209E56f7316aFcd1AC2E6B  , tokenCount: 100000000000000000000
+            Miner: 0x43d5F7e92512a5f5398c749762aC266D2E51974f  , tokenCount: 100000000000000000000
+            Miner: 0xB7f480dDeC1F5Fb2304c4D524dC70E8231f9e46a  , tokenCount: 100000000000000000000
+            Miner: 0xb8E7912b0Ba64C6d3AA6147fB97CBCd5061686d7  , tokenCount: 100000000000000000000
+            Miner: 0xBC37B37b3198aadc49b4c34120ebc3DB963D88CD  , tokenCount: 100000000000000000000
+            Miner: 0xD3f568B4EDD8a8d6b62a783EAF13Aa686960BfE8  , tokenCount: 100000000000000000000
+            Miner: 0xF5E3e141509E627B557bd8C89985442F674E2665  , tokenCount: 100000000000000000000
+            Miner: 0xfa386ECDD6BC25cFE8908E21Acc9B65A3b0BAb97  , tokenCount: 100000000000000000000
+            Miner: 0x64FA274e5A5460967BC111247C011032284Dbc48  , tokenCount: 1000000000000000000000
+
+
+owner:  0x6f5Cf88c2AAdc5217D45A6ef076cdaCe7699E595
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xe7422DF4B77D333980fef5351aa5d627A432281d
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0x571b9911448b1FC4f93Abf48cEC437Df97cf1E2E
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xC6A7E203c458B58C85aeCD2965de1fA8aa44847E
+    game miner count:  1
+    remote miner count:  8
+        use token:  (USDC)
+
+
+
+
+owner:  0x087f3CeFcfE200B405c584D283aFbd2091067185
+    game miner count:  1
+    remote miner count:  4
+        use token:  (USDC)
+
+
+
+
+owner:  0x507Bd249AbFF368eDf8D8DebDd9aD177Ca9552F2
+    game miner count:  1
+    remote miner count:  20
+        use token:  (USDC)
+            Miner: 0xA34eE7f4A684D3900ec2B4929718dd7bb8EEFd3C  , tokenCount: 9900000
+            Miner: 0x98C73FF0f90AE4dcAA2C13d2d0d847F90b8A8D1d  , tokenCount: 0
+            Miner: 0x014DE0f7164dE5C0Bc2Bf714Dc7075B56A4D4851  , tokenCount: 0
+            Miner: 0xe42026ae6B84a0643a456d0AB86CbA139045c2B0  , tokenCount: 0
+            Miner: 0xd699AbDBCfa84066aeCB2afDfc7D446008C21ea7  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+            Miner: 0x05b63Af8839fF35C23cde025390D5F3b4caD5a14  , tokenCount: 100000000000000000000
+            Miner: 0x0E86D316E3d6034691a500564d6cf1D271Bc217E  , tokenCount: 100000000000000000000
+            Miner: 0x4f87926fA656c20138612239ACAe5A1A6Ec9802D  , tokenCount: 100000000000000000000
+            Miner: 0xDf71fd380D88CC8bD93FF371fC9Bb9208889a11A  , tokenCount: 100000000000000000000
+            Miner: 0xFC4324a24067DA0BB2971CAc8D3D33448ABE73B7  , tokenCount: 100000000000000000000
+            Miner: 0xF43638aa7A30d1189485ac400EE38A6B7D817aC5  , tokenCount: 100000000000000000000
+            Miner: 0xFCA57997d940990CA623415Cd18B7f665D151c1c  , tokenCount: 100000000000000000000
+            Miner: 0xb6159c52068847C77c51612018A6fc128E815b62  , tokenCount: 1000000000000000000000
+            Miner: 0xCe339b4f5c71c70eAF7d058FcD2876536a0399Dd  , tokenCount: 1000000000000000000000
+            Miner: 0x7D47EE2B20f7A736c8578506633F38490B76299D  , tokenCount: 1000000000000000000000
+            Miner: 0x31f988A7e698fA27d062eC8290c92Af620AfB1a4  , tokenCount: 1000000000000000000000
+            Miner: 0x01f8f4ED87CF938a9aaaC5a27f84aCc63dA28D50  , tokenCount: 1000000000000000000000
+            Miner: 0x896498552b25a25e52E3E9b61B9e521EC8Fe4E11  , tokenCount: 1000000000000000000000
+            Miner: 0x27DdE012Be68D73E36A212ed8F6af7EB4dba92de  , tokenCount: 1000000000000000000000
+            Miner: 0xb3D398EBB41cc503884cB012785609222913329F  , tokenCount: 1000000000000000000000
+
+
+owner:  0x99A5AdF5b6067F5D41B0708258DCEEbF26f47255
+    game miner count:  1
+    remote miner count:  11
+        use token:  (USDC)
+
+
+
+
+owner:  0x13BAAc85653407206e4b4ae4DB40f420aF8eeaD8
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xc1a70767553076d2871771B37586260a3707E797
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x364a71eE7a1C9EB295a4F4850971a1861E9d3c7D
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x259df9c21d8a7F716C26dF1259D7FDCab96E722E
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0xB14101d59de63A177E7B5Cd76AFCD14aE237a5B7
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xD1B4c07e7fF382De19aE2cf2b54B12240543c654
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xEe38e361c6de69e14aD140b39Ed256195D580267
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xb1cd0a010680E352D66133a01Ae385d3BbD07a44
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x5341Ac33C5bA2BDcd2D4654b851EC412Bbf6352B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x8A4dB5299cB980532092285030dd87969d098D26
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0xDB90120E3F02E86dAaA19D1D8164Ddb96Dc9fF9d
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x2A8014b7fdcbD706dbBC0b5D3fA0823671628071
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x92720CFdc7f9E7c5Dc580F727396d3ef7c9B80bC  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x0A81121aD13a7f5974a2237c76C949179e088ace
+    game miner count:  1
+    remote miner count:  15
+        use token:  (USDC)
+            Miner: 0x79912B0a89A7E7219cCBeBEF638d48cfA157738B  , tokenCount: 9900000
+            Miner: 0x7B99E468164FF6783e9Acff8eAC90C6B4c5Be066  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+            Miner: 0x63F3c9328aEF9054102950d3C0107b18C9f38a41  , tokenCount: 100000000000000000000
+            Miner: 0x71544144d692915284B18Bb593530949b7d5bA3D  , tokenCount: 100000000000000000000
+            Miner: 0x77975F3eF390FC6188C8D701E7f601A29bE3ED5B  , tokenCount: 100000000000000000000
+            Miner: 0x91559e7B6799172F5E4C6250d6A261dED020dB26  , tokenCount: 100000000000000000000
+            Miner: 0x9b38524C48071e09E2173B8B8e2332750Dd8d26F  , tokenCount: 100000000000000000000
+            Miner: 0x88698C63B545CDd0276550583a8bA48CF53e6414  , tokenCount: 100000000000000000000
+            Miner: 0xb6d2209703faD811Cb6C74Bc1511D1dA4fFA2E70  , tokenCount: 100000000000000000000
+            Miner: 0xb84e4B0e6343ed7B02F22F9ABd4917E38D75cEab  , tokenCount: 100000000000000000000
+            Miner: 0xD48374b67832667B2E65D3504FE307C3f36F2eaf  , tokenCount: 100000000000000000000
+            Miner: 0xDF5fE1c285CCED3739dAa8bA65b62fD7a1569252  , tokenCount: 100000000000000000000
+            Miner: 0xe478ad1861308aa51A6625D8160557f3B5aF5207  , tokenCount: 100000000000000000000
+            Miner: 0xe7Fe5DbF0F67aAF7fC712B82E88A01c847aEaEC2  , tokenCount: 100000000000000000000
+            Miner: 0xCaA3D78d644698CF9730b90b469505D10dEd2417  , tokenCount: 1000000000000000000000
+
+
+owner:  0x95E6CacB633e76a739c75b84EE6cB55F37Ff0caC
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x9fA16C516b04aedEcCFA15b1fE1FF25179F365c8
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xB4475b9Bd36783A1864b969D5ae6062bBa3580b3
+    game miner count:  1
+    remote miner count:  10
+        use token:  (USDC)
+
+
+
+
+owner:  0xf6973B0375CA34b9862085c690583320807a9f44
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x5258345926f1CDd53f36488f7626dE51E69c8bBc
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x4a14d4e0A3516f31bad706E2F5AA9fb32127c032
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x9E2f6033114955f4173472fedC4E34EA0186Fb7F
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0xd92A00719D437f84E97E1736A4D1b4b8818b0d77
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x6B8edDB5426476Ff0750FD95389267E3318987EC
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xd99017A640c5C919267A0445464738F6EeD0d19d
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x3aB1Caa7D8f2e5D1fb3CaBB0C7BCC87ABA1A0AA3
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0x30F71624E0eB7C7beBCC3e1CE36744991C1ecc6d
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xeFF1105c656e72903Da56B004e89aC0F19b35c20
+    game miner count:  1
+    remote miner count:  7
+        use token:  (USDC)
+
+
+
+
+owner:  0x5E76cE6D75600C7E68A8ae64B73e6Ba826d2A78B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x6d82DbC426C9367cD2d8c9E45E82e5cb6d7D87f8
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x9Bb4aE8F231918b799DE5bAD33348B6f2b1109f0
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x59Aa4c48B4265a95999D345B1BeF1eA22DF36a19
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xF1709157444B605cCDFE7e81b63C94Cd0E7271A4
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0xF3fBDbC2A9e699749F3dD0F90Dc4912919f86652  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xb1e077B540551a469F498E615FFB231718c71A9D
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x8C0D8b023a94BD8bA28C5C3a2b31CEf08750A160
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x407552d30C85E540EFc83DE7Cd21A9Df5e3d201D
+    game miner count:  0
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xBAeF5d8EfA74d3cff297D88c433D7B5d90bf0e49
+    game miner count:  0
+    remote miner count:  10
+        use token:  (USDC)
+
+
+
+
+owner:  0xA00da3E2D28e0F94de99Ec198A4cf9C7BE2E5381
+    game miner count:  0
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x3F7863650c58AB445A4188faEA1eDd12b9b2CF73
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x2dF3AE0187992da43b2f10E9e89B6a43C8E5e617
+    game miner count:  1
+    remote miner count:  9
+        use token:  (USDC)
+
+
+
+
+owner:  0x206fB2047865eebaFb268C82aDe336b4866238d9
+    game miner count:  0
+    remote miner count:  11
+        use token:  (USDC)
+
+
+
+
+owner:  0x19e91Fd16e0f88F584a32a5181DAD498bA98C960
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x12ba3311431C0f29Ae8B1a57401342373C807D9B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x091fF3B65f83D24aA40F9223233457755586D9F3
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x3B65008569B7A9dC804FFe0cc643F8f218d8d431
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x4B58efB59752ee1785a861452F863be68723EdbF
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xf8ad1f4198a4F37A6926aA63cA00DAAD55BdD403
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x2df522C2bF3E570caA22FBBd06d1A120B4Dc29a8
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0xF78454dB9cF1069fE3d10e6553C8fd589737FAaD
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xA958c4CFacfEB73beE39B3BC7b15Ba119cc0505B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x6C22D88606fae6908d03FB0E3fc0ab4686863F33
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x57E961AD1504431b2E7cdC91DcB2645d39694062
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x06DD5F3EfE921DDe0F3cA96450E6361B10D3E6E6
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xF15034485C73C40fa7FE79d4A631CB348a095362
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xdece49eF08A75f02499d965a36eEAEfFCdD3D483
+    game miner count:  1
+    remote miner count:  8
+        use token:  (USDC)
+
+
+
+
+owner:  0x83049f7406B3C870D9C5a159D7D3FC93EBc6C4a6
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0x42Cc3C63828826876F9F3d04751EBD5C70E39CfE
+    game miner count:  1
+    remote miner count:  8
+        use token:  (USDC)
+
+
+
+
+owner:  0x555E5f5f365C0Bdd529811256782D9058e9a7f84
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x0b493Af26Fa61E5FF84290cA934b7c85E3195505
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xe1830927C5E493E8215e0592aff9EEff1C678348
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x2612C2e40A5397b17e1F54F748f5aEA6C1BDA294
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xaDB2c3a96aE172B26F6988738200e838a3377a2a
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xe564aCF19A6cBe4E8A697888f57Cd4C867F3bD2F
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xf3464a7c9bF0DE5681F071255B05Fc8a3a3c331a
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x7079b3709F9f4c93C4d18df3232A13D429460Fa1
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x83c4647Fa993F6AE5180F4908C13c3D54bb35a7f
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xc20d36A86CE9c59B4278444451AA1265A91DEfdB
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x86EB43CAAe20165BfAA6f1d125471E5Cc56d5F38
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x4392e5CF4568eB3771CAd24d4c3238525FF878ba
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x06A54b9C1832b46C38F78a6788E9eF5142FF810F
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xD35D3B9b2D865cA15e3D5c1598F9d209003074F2
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x0aA8b6540efb58a77277936bC6EcCDDc8154c847
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xf0c2e7091560258eEcF5185Ff5B775BE480248C5
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x9734bffD7Dbb5aC81610bD3F898D7319c7F70771
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x07685bd68E86B01D3e8e0CF80Ca8CC96B6e80dCB
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x9e4Bee4aC4089207eE239C27eFB115Ff4B242362
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xa84B80D57f8Bf3cD436E2d2Ecd4B8752C522e567
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x8b17F9ec727a9a7309e4D4450c44945391FC4444
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xB0E56e0ecA98C580F99519B4E7fE0E8e2cDFc966
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xee0eD49D2f810BC136e756f286610d8B4F00dD36
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x2B6331d5ade82119bD0AfAc497fcb44F468B1a40
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xDC6485F212C5AF1f5607Ae93101df9ad691b25BB
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x2b17060EfA8592a5a0c598c447465ADD3197664B
+    game miner count:  1
+    remote miner count:  11
+        use token:  (USDC)
+
+
+
+
+owner:  0xd5B224F44D6421058ab43Af63add9af0EFf9896e
+    game miner count:  1
+    remote miner count:  4
+        use token:  (USDC)
+
+
+
+
+owner:  0xc9A5F51B16995d76F82B7701E434514170AB6dbf
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xf5493d28b94521fe392F640aA78df3C68531964e
+    game miner count:  1
+    remote miner count:  12
+        use token:  (USDC)
+
+
+
+
+owner:  0xDefd2EE0f9E7B06313D2a6839FF6feb0D45F63Ba
+    game miner count:  1
+    remote miner count:  9
+        use token:  (USDC)
+
+
+
+
+owner:  0x98586Db177682bC2D4E5443825F05E5c22Dc0b48
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xAAC61fAd27d498C6B02B2C97EB5629695Bc549A4
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x73318915D46e2BDCcD5a939F069cD688Fdfa9387
+    game miner count:  1
+    remote miner count:  5
+        use token:  (USDC)
+
+
+
+
+owner:  0x7fE39b057eE804D23d55C31c271A6DCE9FCb40fE
+    game miner count:  1
+    remote miner count:  29
+        use token:  (USDC)
+
+
+
+
+owner:  0x5bCFe9Bb5b793A8Fa54750c07F8E53106B25BE28
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xD94Ab5870295d2F0F86ac36a1edc1F4f56c3f20c
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x8B5acbDC6E0ff9b3Cf0C3F7418e59e9aC69553f9
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xF0177B9302684ab2D2CBcC892ffe44f825238eA7
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x515D6d90F156dB0AD3de3cA5a86Fe5Dd7E1e5699
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xc904cEfC7d23F40221bf9a0E4d5aEeB30BA40511
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xb96F957Eb9f0fd9747400013289826b335d07e9F
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x258c73948715eCd818219111179bdC234D3Ee903
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x67bCF666B22998E9ea67E73669163C8b8F6CDEC1
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x1716679bb64A0Cd813E050EbC3e87F20b33C0000
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xC1309a357Ed3d10485b363c60B1b98f7Afdb8cb5
+    game miner count:  1
+    remote miner count:  4
+        use token:  (USDC)
+
+
+
+
+owner:  0x536b0b7A40599a26fd97B314B8CC66a443db1ee1
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xe7362DDCaAB5402e41050d41361cE61B8ca7a2c4
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0xeBD4B52B6412EA0dc162EE658de8761E9F248B83
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xa971Cb15824Fe59B8A478699BC18317b995dE579
+    game miner count:  0
+    remote miner count:  3
+        use token:  (USDC)
+            Miner: 0x8b47f74C7FBaEbcEa8CfF9BB3B07Db84ddE05966  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+            Miner: 0x58EfA4F35f01D83874517cF701CF1Eac161f79D0  , tokenCount: 1000000000000000000000
+            Miner: 0xe76c6F0a4C0A2C91E36D6F7E5df1f9F0a3C40eCD  , tokenCount: 1000000000000000000000
+
+
+owner:  0x855314458768d5cCC923EE7698B0AeE4a8e44eb2
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x8A150105145b32Bc66f166FE709B17BB6C864444
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x9dBaeB08179cB215c2717A489D0d39D5efc67858
+    game miner count:  1
+    remote miner count:  14
+        use token:  (USDC)
+
+
+
+
+owner:  0x9F7F9AA13A73bF0aAeBf9db4Bf39a8011872afea
+    game miner count:  1
+    remote miner count:  14
+        use token:  (USDC)
+
+
+
+
+owner:  0x5B3e2EbebbA6530e53E360058a213e763F9e606B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xB4A4916E613A28aEbBB54931045DA15766Ef4aaE
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x5F788DbBFEAe258587a78A37C7e5FEa0dd001251
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x34D8980052c992a7819a1637F0ac38254F85A23d
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x9F5b4678fA8A72A64e9e7a00032F05AbE0d9332c
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x4D8892c103995d83fad6b695c04AF6ba6f198A41
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x0F7aa250Be6074Ac545dF4D11B13EDe53F35EF42
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xE194192698da936C3E7f00279b816B673D96C0b0
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xfc4302Cb58f45338196F365697256EDbd3f10774
+    game miner count:  1
+    remote miner count:  3
+        use token:  (USDC)
+
+
+
+
+owner:  0x93fC2724C20b892C008FcDB9742B7a601221E369
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x19465dee283ba343c0470ee2C54555aC0AaF7e65
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xf55010902b17Cd5Fd3F22670Da03e801618249a6
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xFECE8860904BCf6D27084dD0b62F098224aEA250
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xC1441F7FB36173fB5B133D4858B074F31CF98839
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xbadFb11798679F2Ad744a40686d4ca6CE1473998
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x19669AB60825Bf2F24fAA4054e4abEFdEa8E20BA
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xB2CaBa231C0859AD418E7564A100e428eCAA4010
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xA91f278695fD615270c91264A4179f8C927823f3
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x39984192e3CA910ecBF5d1c55b1FC636FdE86DaD
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xE5EB9e7ad24e6b196F608bE033CF29f31f31A649
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x252701147c045bFBe221b436CdD9A0Ae0A0141f2
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xE9715823F9254369FFBe64946242c840603e31ad
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xd8c7fFf9bdB43ed956f851100BbA06CDd3cA1c44
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x76c58e832eb5ee4b96fE96BE549c16823BE24c6e
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x528502A4123266f22D9991fA78Bb08277B948d93
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x2ce5E7D3BFB1ef656d09976159D8369a574D2495
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xEFe7fF5D0BF5D2990037626B77482E70e886FF8B
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x738Ff1299cb27DdF36a65BC051D7616617AA3745
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x75617EED66D5545F8304BC93a0FEfCDA6E62D0A0
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x16926D3b8AEBe189C6c73cf31f054F93f516aB53
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x33E42372BB6fCAB24E559B5d60c1E98929133582
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xA4d4E32c512eb1A9d36E413b3eA6dEdeA7f5779a
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0xb467FFB18244536b10CcFA0Ed1Bd261323a063Ff
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x492F6a409DD175a5475A98B226675ca2ee0af46d
+    game miner count:  1
+    remote miner count:  4
+        use token:  (USDC)
+
+
+
+
+owner:  0x103Ee59e74AEf9B6D56f3a1f115050AA6663E720
+    game miner count:  0
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x4E6701114Fea4048D8dA14e954e308903977B130
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x1E887A7C9F632435094491A05a3b68AC930FDed9
+    game miner count:  1
+    remote miner count:  2
+        use token:  (USDC)
+
+
+
+
+owner:  0x7c61204F86bFeDa68867CEFdD2BCae38db3CD377
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x08370dd170342643F9B649Ea165200C0dC4EC0D2  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xf98d21C6AC788793E7B5Ec91DC6b0a7E2917c776
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x8874e0E128804C1cC0be41389f40e48a6820029e
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+
+
+
+
+owner:  0x5f57C686bdbc03242C8Fa723B80f0A6CDea79546
+    game miner count:  0
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0xD032854CA9494f3C1887BAFfCCFf1F12e53C3227  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x6cD332b96E1B3e8d38253fB210d04e6D571E77ED
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x5E1CCB55C07D6E80C5F13675AcC3a026C009eBd0  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x476B958ae5Ea5E1117d00B21c3ECE203007Bc782
+    game miner count:  0
+    remote miner count:  11
+        use token:  (USDC)
+            Miner: 0xEaB923f9C814a3Ea7c5Fab6145b0Bb4061495F62  , tokenCount: 9900000
+            Miner: 0x84c93bC5d3e6a7599f35d88f65CE55e831870FfF  , tokenCount: 9900000
+            Miner: 0xBF96c2d8dAF317A230aE3b824b36825D87Dc831C  , tokenCount: 9900000
+            Miner: 0x1Bf9250aaC5df3AD4CE9707e8f3aEdAd6eFb2597  , tokenCount: 9900000
+            Miner: 0x1aF5Dc7733f478EA87FbCa25F7AA6C01B4fE2dec  , tokenCount: 9900000
+            Miner: 0x4278f19Cd50A08f015f8a2c4D045391Ec6CDF78A  , tokenCount: 9900000
+            Miner: 0xb1dBC751097Fa2905362920681eF612B52990766  , tokenCount: 9900000
+            Miner: 0x53861e3461540521fd17EDE279179F401f2812b2  , tokenCount: 9900000
+            Miner: 0xC46E3751FEa796Bcd9FeaA34173366B12507284b  , tokenCount: 9900000
+            Miner: 0x8b4dC5890ecA25Ecf4FaaCEdBf32212254b930be  , tokenCount: 9900000
+            Miner: 0x65484211a1432a194f7847ef0A1BbE4678295952  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x793FB6C64Bb4f58083dD6957769AD6E82e43b7e7
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0xa0Af8F174a4ab73d60b433bC2f8475413E5a88Fb  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xC973948144C9211b01F4036379B158dB7E5653F8
+    game miner count:  0
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x6c9432C214FB4c2174d6f23425a5F8F63aCDc374  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xCeFF63Ab6c6baEd469256EE23B072D17F98CdB76
+    game miner count:  0
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x2F3a0f9A2856860b111537fE3cda50f074dC805A  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x60939198A0AF94F9631Bdd6C43846be111F99A3d
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x23Cc4d6D8E52236735c5DF0edD043Eff23F4427c  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xcfbF8c8D739e2f7d4bca8c47BbC2c7e31b983f71
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0xE1004e9c8855c15dD10840e063E44AeDdfA0575a  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x8082dF10Ce11f7520b9cd40D045c6687CaFCa4D3
+    game miner count:  0
+    remote miner count:  2
+        use token:  (USDC)
+            Miner: 0x79BC0Bc9eEFF21787682c4517418C230B305f618  , tokenCount: 0
+            Miner: 0xc155d7F08568CF3392c9F58046DC87E4262d051F  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0xc9CB16E9Da94896f462663b09B3abaA928e63a1b
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x4952A4E006ceddf3205fD179412E0E3395A51C34  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x8385373065B31f803b45500e0E14A9e13c4BD009
+    game miner count:  1
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0x82a6Fe8f0f50b09454058786Cce2c3C75B017D8D  , tokenCount: 9900000
+
+
+        use token:  (ArkreenToken)
+
+
+owner:  0x43d1929CeEd5978C6b6C4de8594604412313ac02
+    game miner count:  0
+    remote miner count:  1
+        use token:  (USDC)
+            Miner: 0xCFc6b660677eD14E36E9b9399A21E506603C75Ad  , tokenCount: 0
+
+
+        use token:  (ArkreenToken)
